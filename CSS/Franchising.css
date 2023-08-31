@@ -1,0 +1,120 @@
+a.btn.c4{
+    background-color: #F04E30;
+    color: #fff;
+    font-family: Airbnb Cereal App;
+font-size: 18px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+}
+.ig img{
+    height: 408px;
+}
+.tex h4{
+    font-family: Bungee;
+font-size: 40px;
+font-weight: 400;
+line-height: 56px;
+letter-spacing: 0em;
+justify-content: center;
+margin-top: 50px;
+
+}
+.tex p{
+    font-family: Airbnb Cereal App;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.tex .line1 {
+    border-bottom: 2px solid #F04E30;
+}
+
+.text h1{
+    font-family: Bungee;
+font-size: 40px;
+font-weight: 400;
+line-height: 56px;
+letter-spacing: 0em;
+}
+.fa-play {
+    background:yellow;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 50%;
+    position: relative;
+    border: 1px solid #ffdb6f;
+    color: black;
+}
+.line1 p{
+font-family: Airbnb Cereal App;
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.col-lg-6 p span{
+    font-family: Airbnb Cereal App;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.tex1 p{
+    font-family: Airbnb Cereal App;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+.D1 p{
+    font-family: Airbnb Cereal App;
+font-size: 20px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.D1 span{
+    font-family: Airbnb Cereal App;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+@media (max-width:540px){
+    .ic ul li a {
+      text-decoration: none;
+      list-style: none;
+      font-family: Airbnb Cereal App;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    }
+  }
+  @media (max-width:540px){
+    .icoon ul li a {
+      text-decoration: none;
+      list-style: none;
+      font-family: Airbnb Cereal App;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    }
+  }

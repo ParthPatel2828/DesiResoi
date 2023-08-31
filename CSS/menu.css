@@ -1,0 +1,120 @@
+
+
+.menu a{
+    font-family: Bungee;
+font-size: 28px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+text-decoration: none;
+color: black;
+
+}
+.input-group{
+    background: transparent;
+    border-radius:200px ;
+    
+    
+}
+input.oval-input {
+  border-radius: 20px !important;
+  box-sizing: border-box;
+}
+
+.input-group-append {
+  position: absolute;
+  height: 100%;
+  z-index: 9999;
+  
+  
+ 
+}
+
+
+
+.oval-input::placeholder {
+  color: black;
+  font-family: IBM Plex Sans;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+position: sticky;
+
+}
+.li {
+  position: sticky;
+  top: 0;
+  
+  list-style: none;
+}
+.li a{
+  text-decoration: none;
+  color: #000;
+  
+  
+
+
+}
+
+.li a li{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif Cereal App;
+font-size: 18px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing:0em;
+line-height: 50px;
+}
+
+
+.img-list .col-lg-4 img{
+  width: 267px;
+height: 267px;
+}
+.img-list h1{
+  font-family: Bungee;
+font-size: 28px;
+font-weight: 400;
+line-height: 64px;
+border-bottom: 1px solid #F04E30;
+color: #F04E30 ;
+}
+.img-list p{
+  font-family: Airbnb Cereal App;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+
+
+
+}
+.img-list h6{
+  font-family: Bungee;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+}
+@media (max-width:540px){
+  .ic ul li a {
+    text-decoration: none;
+    list-style: none;
+    font-family: Airbnb Cereal App;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  }
+}
+@media (max-width:540px){
+  .icoon ul li a {
+    text-decoration: none;
+    list-style: none;
+    font-family: Airbnb Cereal App;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  }
+}
